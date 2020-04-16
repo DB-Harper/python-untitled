@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8daba926-d8e6-4ebf-930f-81ab6be22e8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ad4M1ETtswAafcKI8WRAp6IAC3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8daba926-d8e6-4ebf-930f-81ab6be22e8d" name="Default Changelist" comment="" />
+      <created>1587052084503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587052084503</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587052441566">
+      <screen x="67" y="27" width="922" height="1173" />
+    </state>
+    <state x="67" y="247" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.922.1173@67.27.922.1173" timestamp="1587052441566" />
+    <state x="260" y="415" width="564" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587052249468">
+      <screen x="67" y="27" width="961" height="1173" />
+    </state>
+    <state x="260" y="415" width="564" height="403" key="#com.intellij.fileTypes.FileTypeChooser/67.27.961.1173@67.27.961.1173" timestamp="1587052249468" />
+  </component>
+</project>
